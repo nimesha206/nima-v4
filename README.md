@@ -39,7 +39,7 @@ src="https://i.postimg.cc/029xmZVt/IMG-20250801-003906-211.jpg">
 <p align="center">
     <strong>TUTORIALS & DEPLOYMENTS</strong>
     <br>
-    <a href="https://devmaxmd.netlify.app" target="_blank">
+    <a href="https://nima.netlify.app" target="_blank">
         <img alt="WEBSITE" src="https://img.shields.io/badge/Get%20Started-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
     </a>
 </p>
