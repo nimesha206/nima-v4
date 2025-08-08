@@ -3,7 +3,7 @@
 <img align="center" height="auto"
 src="https://i.postimg.cc/029xmZVt/IMG-20250801-003906-211.jpg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+NIMA+V4+MADE+BY;NIMA+CODER AND SUNNY TECH BRO;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+NIMA+V4+MADE+BY;NIMA+CODER+AND+SUNNY+TECH+BRO;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
 <br>
 
    </p>
