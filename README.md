@@ -59,4 +59,4 @@ src="https://i.postimg.cc/029xmZVt/IMG-20250801-003906-211.jpg">
 **CREATED BY NIMA AND SUNNY TECH BRO**
 ##
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='[https://i.imgur.com/LyHic3i.gif](https://files.catbox.moe/u2jkj6.jpg)'/>
