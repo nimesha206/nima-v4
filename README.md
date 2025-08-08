@@ -56,7 +56,7 @@ src="https://i.postimg.cc/029xmZVt/IMG-20250801-003906-211.jpg">
 
 - This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
 
-**NIMA**
+**CREATED BY NIMA AND SUNNY TECH BRO**
 ##
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
